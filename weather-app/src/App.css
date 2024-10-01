@@ -1,0 +1,13 @@
+.center {
+  margin: auto;
+  text-align: center;
+  padding: 5px;
+}
+
+.weather{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.graph{
+  width: 50%;
+}
